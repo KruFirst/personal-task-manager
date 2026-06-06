@@ -1,0 +1,9 @@
+name = "personal-task-manager"
+compatibility_date = "2024-03-20"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "personal-task-manager"
+database_id = "186592e7-93d3-4e08-974e-aee2bc57e027"
